@@ -20,5 +20,15 @@
             <li><a href="06-requirejs_init_lang.php" target="_blank" rel="noopener noreferrer">06 Retrieving language strings from Moodle</a></li>
         </ul>
     </div>
+
+    <div>
+        <h3>Chapter 2</h3>
+        <ul>
+            <li><a href="07-yui_init.php" target="_blank" rel="noopener noreferrer">07 Initializing the YUI 3 library</a></li>
+            <li><a href="08-yui_cal.php" target="_blank" rel="noopener noreferrer">08 Loading YUI 2 modules from YUI 3</a></li>
+            <li><a href="09-yui_event.php" target="_blank" rel="noopener noreferrer">09 Attaching basic event handlers</a></li>
+            <li><a href="10-yui_event.php" target="_blank" rel="noopener noreferrer">10 Attaching advanced DOM event handlers</a></li>
+        </ul>
+    </div>
 </body>
 </html>
