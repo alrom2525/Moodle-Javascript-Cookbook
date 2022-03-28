@@ -28,6 +28,8 @@
             <li><a href="08-yui_cal.php" target="_blank" rel="noopener noreferrer">08 Loading YUI 2 modules from YUI 3</a></li>
             <li><a href="09-yui_event.php" target="_blank" rel="noopener noreferrer">09 Attaching basic event handlers</a></li>
             <li><a href="10-yui_event.php" target="_blank" rel="noopener noreferrer">10 Attaching advanced DOM event handlers</a></li>
+            <li><a href="11-yui_delegation.php" target="_blank" rel="noopener noreferrer">11 Implementing event delegation</a></li>
+            <li><a href="12-yui_console.php" target="_blank" rel="noopener noreferrer">12 Debugging with the YUI console (Doesn't work)</a></li>
         </ul>
     </div>
 </body>
